@@ -1,3 +1,6 @@
+// Copyright(c) 2019-present, Gavin Dunlap
+// Distributed under the MIT License (http://opensource.org/licenses/MIT)
+
 #ifndef SIECH_VECTOR3D_HPP
 #define SIECH_VECTOR3D_HPP
 

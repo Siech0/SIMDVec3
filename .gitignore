@@ -131,4 +131,6 @@ ipch/
 *.vspx
 *.sap
 
-
+# My ignores
+/build
+/bin

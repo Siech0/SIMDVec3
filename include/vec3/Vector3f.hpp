@@ -1,3 +1,6 @@
+// Copyright(c) 2019-present, Gavin Dunlap
+// Distributed under the MIT License (http://opensource.org/licenses/MIT)
+
 #ifndef SIECH_VECTOR3F_HPP
 #define SIECH_VECTOR3F_HPP
 
@@ -6,6 +9,7 @@
 
 #include <xmmintrin.h> //SSE
 #include <emmintrin.h> //SSE2
+#include <smmintrin.h> //SSE4.1
 
 class alignas(16) Vector3
 {
